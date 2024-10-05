@@ -10,7 +10,7 @@ Check out [Polynomials-Integer](https://github.com/FarnoodID/Polynomials-Integer
 
 To compile the C++ program, use the following command:
 ```bash
-g++ Polynomial_Fraction.cpp -o output.exe
+g++ Polynomials_Fraction.cpp -o output.exe
 ```
 To run the program, use the command:
 ```bash
